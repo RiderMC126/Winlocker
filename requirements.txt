@@ -1,0 +1,5 @@
+tkinter
+os
+getpass
+PyAutoGUI==0.9.53
+sys==3.11.2
